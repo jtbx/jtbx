@@ -16,3 +16,11 @@
 📜 I like to make Bash scripts to save time.<br/><br/>
 
 🐧 I'm interested in Linux and distributions like Arch and Fedora.<br/><br/>
+
+⚙ I like modifying the source code of programs and compiling them, like dwm.<br/><br/><br/><br/><br/>
+
+**My most active repo:**<br/><br/>
+
+<a href="https://github.com/jtbx/dwm">
+  <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtbx&repo=dwm&title_color=58a6ff&text_color=ffffff&icon_color=ffffff&bg_color=222222">
+ </a>
