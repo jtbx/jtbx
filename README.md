@@ -17,7 +17,7 @@
 
 🐧 I'm interested in Linux and distributions like Arch and Fedora.<br/><br/>
 
-⚙ I like modifying the source code of programs and compiling them, like dwm.<br/><br/><br/><br/><br/>
+⚙ I like modifying the source code of programs and compiling them, like dwm.<br/><br/><br/><br/>
 
 **My most active repo:**<br/><br/>
 
