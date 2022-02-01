@@ -15,7 +15,9 @@
 
 📜 I like to make Bash scripts to save time.<br/><br/>
 
-🐧 I'm interested in Linux and distributions like Arch and Fedora.<br/><br/><br/><br/>
+🐧 I'm interested in Linux and distributions like Arch and openSUSE.<br/><br/>
+
+📦 I package for pacman/rpm distros. <br/><br/><br/><br/>
 
 **My most active repo:**<br/><br/>
 
