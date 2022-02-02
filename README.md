@@ -11,7 +11,7 @@
 
 👋 Hello! I'm Jeremy and I'm a beginner programmer.<br/><br/>
 
-🧠 I know some HTML, CSS, POSIX sh, and I'm learning C++.<br/><br/>
+🧠 I know POSIX shell, HTML, CSS, and I'm learning C++.<br/><br/>
 
 📜 I like to make Bash scripts to save time.<br/><br/>
 
