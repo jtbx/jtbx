@@ -13,9 +13,9 @@
 
 🧠 I know POSIX shell, HTML, CSS, and I'm learning C++.<br/><br/>
 
-📜 I like to make Bash scripts to save time.<br/><br/>
+📜 I like to make shell scripts to save time.<br/><br/>
 
-🐧 I'm interested in Linux and distributions like Arch and openSUSE.<br/><br/>
+🐧 I'm interested in Linux and distributions like Arch, openSUSE, and Fedora.<br/><br/>
 
 📦 I package for pacman/rpm distros. <br/><br/><br/><br/>
 
