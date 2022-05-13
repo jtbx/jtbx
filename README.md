@@ -9,7 +9,7 @@
 </a>
 
 
-👋 Hello! I'm Jeremy and I'm a beginner programmer.<br/><br/>
+👋 Hello! I'm Jeremy and I program stuff for fun.<br/><br/>
 
 🧠 I know POSIX shell, HTML, CSS, and I'm learning C++.<br/><br/>
 
@@ -17,7 +17,7 @@
 
 🐧 I'm interested in Linux and distributions like Arch, openSUSE, and Fedora.<br/><br/>
 
-📦 I package for pacman/rpm distros. <br/><br/><br/><br/>
+📦 I package for Arch Linux. <br/><br/><br/><br/>
 
 **My most active repo:**<br/><br/>
 
