@@ -12,6 +12,6 @@
 
 📜 I mainly make shell scripts to save time.<br/><br/>
 
-🐧 I'm interested in Unix-like operating systems, like Linux and FreeBSD.<br/><br/>
+🐧 I'm interested in Unix-like operating systems, like Linux and BSD.<br/><br/>
 
 📦 I package for Arch Linux and Debian. <br/><br/><br/><br/>
