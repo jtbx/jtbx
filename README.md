@@ -1,17 +1,14 @@
-# jtbx
+```
+   _______               __  __         _______ __  __  __      __
+  / ____(_)   _____     / / / /___     / ____(_) /_/ / / /_  __/ /_
+ / / __/ / | / / _ \   / / / / __ \   / / __/ / __/ /_/ / / / / __ \
+/ /_/ / /| |/ /  __/  / /_/ / /_/ /  / /_/ / / /_/ __  / /_/ / /_/ /
+\____/_/ |___/\___/   \____/ .___/   \____/_/\__/_/ /_/\__,_/_.___/
+                          /_/
+```
 
-<a href="https://github.com/jtbx">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=jtbx&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtbx&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0d1117" alt="jtbx" />
-</a>
+[Give Up GitHub: The Time Has Come!](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
 
+https://sfconservancy.org/GiveUpGitHub/
 
-👋 Hello! I'm Jeremy, a hobby programmer from New Zealand.<br/><br/>
-
-🧠 I know POSIX shell, and I'm currently learning Go.<br/><br/>
-
-📜 I mainly make shell scripts to save time.<br/><br/>
-
-🐧 I'm interested in Unix-like operating systems, like Linux and BSD.<br/><br/>
-
-📦 I package for Arch Linux and Debian. <br/><br/><br/><br/>
+Those who forget history often inadvertently repeat it.
