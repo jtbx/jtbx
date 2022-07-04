@@ -7,10 +7,8 @@
                           /_/
 ```
 
-[Give Up GitHub: The Time Has Come!](https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/)
+https://sfconservancy.org/blog/2022/jun/30/give-up-github-launch/
 
 https://sfconservancy.org/GiveUpGitHub/
-
-Those who forget history often inadvertently repeat it.
 
 [codeberg.org/jtbx](https://codeberg.org/jtbx)
